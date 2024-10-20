@@ -1,5 +1,2 @@
-# brainec
-# brainec
-# brainec
-# brainec
-# brainec
+npm install <br />
+npx expo start --web
